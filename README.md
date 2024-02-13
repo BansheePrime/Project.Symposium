@@ -1,0 +1,1 @@
+## Template for Symposium app  
