@@ -1,1 +1,9 @@
-## Template for Symposium app  
+# Symposium
+*δοκῶ μοι περὶ ὧν πυνθάνεσθε οὐκ ἀμελέτητος εἶναι.*
+
+## Symposium app 
+
+###
+
+###
+
